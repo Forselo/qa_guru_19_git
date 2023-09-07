@@ -4,7 +4,6 @@ HELP.md
 *.iws
 *.iml
 *.ipr
-
 build/
 !**/src/mail/**
 !**/src/test/**
